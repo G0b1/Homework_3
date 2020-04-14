@@ -1,0 +1,9 @@
+canvas {
+    border: 1px solid;
+    width: 400;
+    height: 200;
+}
+
+#canvas4 {
+    border: 0 solid;
+}
